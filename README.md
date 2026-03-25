@@ -1,5 +1,5 @@
 # Weather-App
-Visualizador de Clima simples, criado usando React e Taiwind CSS
+Visualizador de Clima simples, criado usando React, Taiwind CSS e JSON.
 
 Desenvolvido em **React, Tailwind CSS e JSON**, que permite buscar uma cidade, ver a temperatura e seu clima.
 ## Funcionalidades  
